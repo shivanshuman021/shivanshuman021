@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I'm Anshuman Mishra , Undergrad Electronics & Communication @NITW 
+- 🌱 I’m a competitive programmer developing my CP skills @codechef && @leetcode && @codeforces
+- 🔭 A DL enthusiast currently working on Transformers in field of NLP && Generative Adversarial Networks 
+
 <!--
 **shivanshuman021/shivanshuman021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
