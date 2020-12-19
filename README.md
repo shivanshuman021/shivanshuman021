@@ -2,7 +2,8 @@
 
 ## I'm Anshuman :)
 
-- 🔭 A DL & DS enthusiast 
+- 🔭 I'm a competitive programmer on codechef and codeforces
+- ⚡ Heavily interested in Artificial Intelligence
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshuman021" alt="shivanshuman021" /> </p>
 
