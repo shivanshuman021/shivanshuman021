@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/anshuman-mishra-warangal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mcanv" height="30" width="40" /></a>
+<a href="https://twitter.com/in/shivanshuman021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mcanv" height="30" width="40" /></a>
 <a href="https://instagram.com/era_of_exorcism" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canvarer" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100027935993418" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="canvarer" height="30" width="40" /></a>
 </p>
