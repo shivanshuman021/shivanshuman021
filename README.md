@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 <a href="https://hackerrank.com/shivanshuman021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="canvarer" height="30" width="40" /></a>
 <a href="https://hackerearth.com/shivanshuman021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="canvarer" height="30" width="40" /></a>
 <a href="https://codechef.com/boruto_uz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="canvarer" height="30" width="40" /></a>
+<a href="https://kaggle.com/shivanshuman021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="canvarer" height="30" width="40" /></a>
+<a href="https://instagram.com/era_of_exorcism" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canvarer" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027935993418" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="canvarer" height="30" width="40" /></a>
 </p>
 
 My own webbie exists [here :)](https://shivanshuman021.github.io)
