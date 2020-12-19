@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## I'm Anshuman Mishra , Undergrad Electronics & Communication @NITW 
+## I'm Anshuman :)
+
 - 🔭 A DL enthusiast currently working on Transformers in field of NLP && Generative Adversarial Networks and advancing towards Reinforcement Learning
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshuman021" alt="shivanshuman021" /> </p>
@@ -34,10 +35,11 @@ Here are some ideas to get you started:
 <a href="https://codechef.com/boruto_uz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="canvarer" height="30" width="40" /></a>
 </p>
 
+My own webbie exists [here :)](https://shivanshuman021.github.io)
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivanshuman021&column=3&margin-w=15&margin-h=15" (https://github.com/ryo-ma/github-profile-trophy)">
+<img src="https://github-profile-trophy.vercel.app/?username=shivanshuman021&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshuman021&show_icons=true&count_private=false" alt="shivanshuman021" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshuman021&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshuman021&layout=compact)
