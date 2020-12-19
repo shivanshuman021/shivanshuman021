@@ -2,7 +2,7 @@
 
 ## I'm Anshuman :)
 
-- 🔭 A DL enthusiast currently working on Transformers in field of NLP && Generative Adversarial Networks and advancing towards Reinforcement Learning
+- 🔭 A DL & DS enthusiast 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshuman021" alt="shivanshuman021" /> </p>
 
