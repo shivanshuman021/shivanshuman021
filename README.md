@@ -32,14 +32,6 @@ My own webbie exists [here :runner:](https://shivanshuman021.github.io)
 
 <img src="https://github-profile-trophy.vercel.app/?username=shivanshuman021&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/anshuman-mishra-warangal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mcanv" height="30" width="40" /></a>
-<a href="https://twitter.com/in/shivanshuman021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mcanv" height="30" width="40" /></a>
-<a href="https://instagram.com/era_of_exorcism" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canvarer" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100027935993418" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="canvarer" height="30" width="40" /></a>
-</p>
-
 
 <div>
   <table>
@@ -109,24 +101,26 @@ My own webbie exists [here :runner:](https://shivanshuman021.github.io)
   <li><a href="https://github.com/Nabagata/interview-prep.git">Nabagata/interview-prep</a></li>
   <li><a href="https://github.com/suffisme/Core-Programming.git">suffisme/Core-Programming</a></li>
   
-  </div>
   
+  <h3>Hackathons:</h3>
   
+  Repositories:
   
+  <li><a href="https://github.com/shivanshuman021/Voctor">Voctor</a></li>
   
+  <li><a href="https://github.com/Technocrats-nitw/TalkAR.git">TalkAR</a></li>
   
+  <li><a href="https://github.com/Technocrats-nitw/NAiV.git">NAiV</a></li>
   
-  
-  
-  
-      
-  
-  
-  </table>
-  
-  
-  
-     
+  </div>   
          
 
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/anshuman-mishra-warangal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mcanv" height="30" width="40" /></a>
+<a href="https://twitter.com/in/shivanshuman021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mcanv" height="30" width="40" /></a>
+<a href="https://instagram.com/era_of_exorcism" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canvarer" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027935993418" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="canvarer" height="30" width="40" /></a>
+</p>
 
