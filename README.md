@@ -116,9 +116,7 @@ My own webbie exists [here :runner:](https://shivanshuman021.github.io)
   <li><a href="https://github.com/Technocrats-nitw/NAiV.git">NAiV</a></li>
   
   </div>   
-         
-<img src="https://github-profile-trophy.vercel.app/?username=shivanshuman021&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
-
+  
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/anshuman-mishra-warangal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mcanv" height="30" width="40" /></a>
@@ -126,4 +124,10 @@ My own webbie exists [here :runner:](https://shivanshuman021.github.io)
 <a href="https://instagram.com/era_of_exorcism" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canvarer" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100027935993418" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="canvarer" height="30" width="40" /></a>
 </p>
+
+  
+  
+         
+<img src="https://github-profile-trophy.vercel.app/?username=shivanshuman021&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+
 
