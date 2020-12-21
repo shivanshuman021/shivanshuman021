@@ -7,6 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshuman021" alt="shivanshuman021" /> </p>
 
+<h3>Badges</h3>
+  <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="canvarer" height="30" width="40" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshuman021&show_icons=true&count_private=false" alt="shivanshuman021" /></p>
 
 
@@ -30,7 +33,6 @@
 My own webbie exists [here :runner:](https://shivanshuman021.github.io)
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivanshuman021&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 
 <div>
@@ -97,9 +99,10 @@ My own webbie exists [here :runner:](https://shivanshuman021.github.io)
   
   Repositories:
   
-  <li><a href="https://github.com/SHY-Corp/LeetCode-Solutions.git">SHY-Corp/LeetCode-Solutions</a></li>
-  <li><a href="https://github.com/Nabagata/interview-prep.git">Nabagata/interview-prep</a></li>
+  <li><a href="https://github.com/SHY-Corp/LeetCode-Solutions.git">SHY-Corp/LeetCode-Solutions (Hacktoberfest)</a></li>
+  <li><a href="https://github.com/Nabagata/interview-prep.git">Nabagata/interview-prep (Hacktoberfest)</a></li>
   <li><a href="https://github.com/suffisme/Core-Programming.git">suffisme/Core-Programming</a></li>
+  
   
   
   <h3>Hackathons:</h3>
@@ -114,7 +117,7 @@ My own webbie exists [here :runner:](https://shivanshuman021.github.io)
   
   </div>   
          
-
+<img src="https://github-profile-trophy.vercel.app/?username=shivanshuman021&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
