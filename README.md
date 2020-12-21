@@ -41,4 +41,81 @@ My own webbie exists [here :runner:](https://shivanshuman021.github.io)
 </p>
 
 
+<div>
+  <table>
+    <tr>
+      <th> Repository</th>
+      <th> Brief </th>
+      <th> Language </th>
+    </tr>
+   <tr>
+     <td><a href="https://github.com/shivanshuman021/Objecto">Objecto</a></td>
+    <td>
+      Object detection android app
+     </td>
+     <td>
+       <li>Python</li>
+       <li>Java</li>
+     </td>
+    </tr>
+  
+   <tr>
+      <td><a href="https://github.com/shivanshuman021/TaskManager">Task Manager</a></td>
+      <td>Simple Task scheduler and management desktop app</td>
+      <td><a href="https://www.xojo.com/">Xojo</a></td>
+  </tr>
+  
+  <tr>
+  <td><a href="https://github.com/shivanshuman021/KR">KR</a></td>
+  <td>DSA assignments KR Sir NITW</td>
+  <td>C++</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/shivanshuman021/PyKR">PyKR</a></td>
+  <td>DSA assignments KR Sir NITW</td>
+  <td>Python</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/shivanshuman021/NeuralNet/">NeuralNet</a></td>
+  <td>Neural Network library</td>
+  <td>C++</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/shivanshuman021/YOLOv2.o/">YOLOv2.o</td>
+  <td><a href="https://arxiv.org/abs/1612.08242">Paper</a> implementation</td>
+  <td>Python</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/shivanshuman021/resnet/">Resnet</a></td>
+  <td><a href="https://arxiv.org/abs/1512.03385">Paper</a> implementation</td>
+  <td>Tensorflow</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/shivanshuman021/neural-style-transfer/">Neural-Style-Transfer</a></td>
+  <td><a href="https://arxiv.org/abs/1508.06576">Paper</a> Implementation</td>
+  <td>Tensorflow</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/shivanshuman021/RNN">RNN</a></td>
+  <td><a href="https://arxiv.org/abs/1808.03314">Paper</a> Implementation</td>
+  <td>Python</td>
+  <table>
+  
+  
+  
+  
+  
+  
+  
+  
+      
+  
+  
+  </table>
+  
+  
+  
+     
+         
+
 
