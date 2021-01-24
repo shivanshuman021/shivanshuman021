@@ -49,7 +49,14 @@ My own webbie exists [here :runner:](https://shivanshuman021.github.io)
        <li>Java</li>
      </td>
     </tr>
-  
+   <tr>
+     <td><a href="https://github.com/shivanshuman021/Super-Mario">Super Mario Bros</a></td>
+     <td> DeepRL mario agent</td>
+     <td>
+       <li>PyTorch</li>
+       <li>OpenAIGym</li>
+     </td>
+    </tr>
    <tr>
       <td><a href="https://github.com/shivanshuman021/TaskManager">Task Manager</a></td>
       <td>Simple Task scheduler and management desktop app</td>
